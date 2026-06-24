@@ -1,9 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Naman%20Chachan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20GenAI%20%26%20Applied%20ML&descAlignY=55&descSize=18)
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+in+GenAI+%2F+RAG+and+Applied+ML;Published+Researcher+%40+ICISA+2025;200%2B+LeetCode+Problems+Solved;Currently+%40+Oracle+Financial+Services" alt="Typing SVG" />
-</p>
-
 # 💫 About Me:
 🎓 B.Tech in Computer Science Engineering @ MIT World Peace University, Pune (CGPA 8.41/10).<br>💼 Project Intern @ Oracle Financial Services Software Limited.<br>🧠 Published researcher — CNN-based underwater trash detection accepted at ICISA 2025.<br>🔍 Interested in Machine Learning, DBMS, GenAI, and full-stack development.<br>🚀 Currently working on projects involving GenAI/RAG pipelines, learning dashboards, DBMS systems, and AI applications.<br>📊 Enjoy solving problems on LeetCode (200+ solved), Codeforces, and other coding platforms.<br>🌱 Always eager to learn, collaborate, and build impactful solutions.
 
@@ -73,8 +67,11 @@
 # 🏆 Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=ChachanNaman&theme=darkhub&no-frame=true&row=1&column=7)
 
-# 📈 Contribution Graph:
-![](https://github-readme-activity-graph.vercel.app/graph?username=ChachanNaman&theme=react-dark&hide_border=true)
+# ⚡ Profile Summary:
+![](https://github-readme-stats.vercel.app/api?username=ChachanNaman&show_icons=true&theme=dark&hide_border=true&hide=contributions&show=reviews,prs_merged,prs_merged_percentage&card_width=500)
+
+# 🧠 Skills in Action:
+![](https://skillicons.dev/icons?i=python,cpp,c,js,java,react,html,css,nodejs,mongodb,mysql,git,pytorch,tensorflow,arduino&theme=dark)
 
 # 🧩 LeetCode Stats:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/chachannaman?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/chachannaman/)
@@ -87,7 +84,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ChachanNaman&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=100&section=footer)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
