@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:8E2DE2,100:00d2ff&height=220&section=header&text=NAMAN%20CHACHAN&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=building%20things%20that%20(mostly)%20don't%20catch%20fire&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/ChachanNaman">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=GenAI+%2B+ML+engineer+in+training+%F0%9F%A7%A0;Published+researcher+%40+ICISA+2025+%F0%9F%93%9C;Oracle+intern+%7C+automation+addict+%E2%9A%99%EF%B8%8F;200%2B+LeetCode+problems+deep+%F0%9F%A7%A9;I+turn+coffee+into+pipelines+%E2%98%95" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=GenAI+%2B+ML+engineer+in+training+%F0%9F%A7%A0;Published+researcher+%40+ICISA+2025+%F0%9F%93%9C;Oracle+intern+%7C+automation+addict+%E2%9A%99%EF%B8%8F;450%2B+LeetCode+problems+deep+%F0%9F%A7%A9;I+turn+coffee+into+pipelines+%E2%98%95" alt="typing intro"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=ChachanNaman&style=for-the-badge&color=8E2DE2&label=HUMANS+DETECTED" alt="profile views"/>
@@ -40,7 +40,7 @@ naman@earth:~$ sudo hire naman
 timeline
     title Character Development Arc
     2023 : Spawned into B.Tech CSE @ MIT-WPU : Picked up a camera, became Videographer Lead
-    2025 : ICISA 2025 research paper accepted 🧠 : Data Scientist Intern @ Technocolabs : 200+ LeetCode problems down
+    2025 : ICISA 2025 research paper accepted 🧠 : Data Scientist Intern @ Technocolabs : 450+ LeetCode problems down
     2026 : Project Intern @ Oracle 🏛️ : Shipping GenAI + RAG systems
     2027 : Graduation : Boss level unlocked — ???
 ```
